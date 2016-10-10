@@ -1,0 +1,812 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2276458730",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "All of the calculations in a CPU are performed by <<<transistors>>> working together in <<<circuits>>>. They act as <<<switches>>> and they are either <<<on or off>>> when they either <<<transmit>>> an electric current or they do not. \nThese two states can be used to represent two digits – <<<0 and 1>>>.",
+   "tokens": {
+    "blank": [
+     "transistors",
+     "circuits",
+     "switches",
+     "on or off",
+     "transmit",
+     "0 and 1"
+    ],
+    "text": [
+     "All of the calculations in a CPU are performed by ",
+     0,
+     " working together in ",
+     0,
+     ". They act as ",
+     0,
+     " and they are either ",
+     0,
+     " when they either ",
+     0,
+     " an electric current or they do not. \nThese two states can be used to represent two digits – ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-57660063",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**The following table shows the units used to measure file sizes.\nIndicate the order of the units from 1 for the smallest to 8 for the largest.**",
+   "points": "1",
+   "showValues": false,
+   "text": "|||\n|:--|:--:|\n|gigabyte|<<<6>>>|\n|nibble |<<<2>>>|\n|kilobyte |<<<4>>>|\n|terabyte |<<<7>>> |\n|bit|<<<1>>>|\n|megabyte|<<<5>>>|\n|petabyte |<<<8>>> |\n|byte|<<<3>>>|",
+   "tokens": {
+    "blank": [
+     "6",
+     "2",
+     "4",
+     "7",
+     "1",
+     "5",
+     "8",
+     "3"
+    ],
+    "text": [
+     "|||\n|:--|:--:|\n|gigabyte|",
+     0,
+     "|\n|nibble |",
+     0,
+     "|\n|kilobyte |",
+     0,
+     "|\n|terabyte |",
+     0,
+     " |\n|bit|",
+     0,
+     "|\n|megabyte|",
+     0,
+     "|\n|petabyte |",
+     0,
+     " |\n|byte|",
+     0,
+     "|"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3748747982",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "10111011 = <<<187>>>\t",
+   "tokens": {
+    "blank": [
+     "187"
+    ],
+    "text": [
+     "10111011 = ",
+     0,
+     "\t"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1333505981",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "01100101 = <<<101>>>",
+   "tokens": {
+    "blank": [
+     "101"
+    ],
+    "text": [
+     "01100101 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3721387656",
+  "source": {
+   "name": "Question5",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11100011 = <<<227>>>",
+   "tokens": {
+    "blank": [
+     "227"
+    ],
+    "text": [
+     "11100011 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1496232988",
+  "source": {
+   "name": "Question6",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "99 = <<<01100011>>>",
+   "tokens": {
+    "blank": [
+     "01100011"
+    ],
+    "text": [
+     "99 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1688490676",
+  "source": {
+   "name": "Question6",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "236 = <<<11101100>>>",
+   "tokens": {
+    "blank": [
+     "11101100"
+    ],
+    "text": [
+     "236 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-300063075",
+  "source": {
+   "name": "Question7",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "148 = <<<10010100>>>",
+   "tokens": {
+    "blank": [
+     "10010100"
+    ],
+    "text": [
+     "148 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-924909494",
+  "source": {
+   "name": "Question 8",
+   "showName": false,
+   "instructions": "**State the results of the following binary addition.**",
+   "points": "1",
+   "showValues": false,
+   "text": "00110110 + 01011011 = <<<10010001>>>",
+   "tokens": {
+    "blank": [
+     "10010001"
+    ],
+    "text": [
+     "00110110 + 01011011 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1409999364",
+  "source": {
+   "name": "Question9",
+   "showName": false,
+   "instructions": "**State the results of the following binary addition.**",
+   "points": "1",
+   "showValues": false,
+   "text": "01010010 + 01110011 = <<<11000101>>>",
+   "tokens": {
+    "blank": [
+     "11000101"
+    ],
+    "text": [
+     "01010010 + 01110011 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-327855966",
+  "source": {
+   "name": "Question10",
+   "showName": false,
+   "instructions": "**State the results of the following binary addition.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11010010 + 01001111 = <<<00100001>>>",
+   "tokens": {
+    "blank": [
+     "00100001"
+    ],
+    "text": [
+     "11010010 + 01001111 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1811596202",
+  "source": {
+   "name": "Question11",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "An <<<overflow>>> <<<error>>> occurs when a <<<calculation>>> produces a result that is <<<greater>>> than the computer can deal with or store e.g. a <<<9 bit>>> number. ",
+   "tokens": {
+    "blank": [
+     "overflow",
+     "error",
+     "calculation",
+     "greater",
+     "9 bit"
+    ],
+    "text": [
+     "An ",
+     0,
+     " ",
+     0,
+     " occurs when a ",
+     0,
+     " produces a result that is ",
+     0,
+     " than the computer can deal with or store e.g. a ",
+     0,
+     " number. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1471997509",
+  "source": {
+   "name": "Question12",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift**",
+   "points": "1",
+   "showValues": false,
+   "text": "00110110 multiplied by 4 = <<<11011000>>>",
+   "tokens": {
+    "blank": [
+     "11011000"
+    ],
+    "text": [
+     "00110110 multiplied by 4 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1519732206",
+  "source": {
+   "name": "Question13",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "00011101 multiplied by 8 = <<<11101000>>>",
+   "tokens": {
+    "blank": [
+     "11101000"
+    ],
+    "text": [
+     "00011101 multiplied by 8 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3541558421",
+  "source": {
+   "name": "Question14",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "01010101 divided by 2 = <<<00101010>>>",
+   "tokens": {
+    "blank": [
+     "00101010"
+    ],
+    "text": [
+     "01010101 divided by 2 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1274049063",
+  "source": {
+   "name": "Question15",
+   "showName": false,
+   "instructions": "**State the results of the following binary shift.**",
+   "points": "1",
+   "showValues": false,
+   "text": "10111011 divided by 4 = <<<00101110>>>",
+   "tokens": {
+    "blank": [
+     "00101110"
+    ],
+    "text": [
+     "10111011 divided by 4 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1463806745",
+  "source": {
+   "name": "Question16",
+   "showName": false,
+   "instructions": "**Convert the following.**",
+   "points": "1",
+   "showValues": false,
+   "text": "196 denary to hexadecimal = <<<C4>>>",
+   "tokens": {
+    "blank": [
+     "C4"
+    ],
+    "text": [
+     "196 denary to hexadecimal = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3025573222",
+  "source": {
+   "name": "Question17",
+   "showName": false,
+   "instructions": "**Convert the following.**",
+   "points": "1",
+   "showValues": false,
+   "text": "DC in hexadecimal to denary = <<<220>>>",
+   "tokens": {
+    "blank": [
+     "220"
+    ],
+    "text": [
+     "DC in hexadecimal to denary = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3679403267",
+  "source": {
+   "name": "Question18",
+   "showName": false,
+   "instructions": "**Convert the following.**",
+   "points": "1",
+   "showValues": false,
+   "text": "CD in hexadecimal to binary = <<<11001101>>>",
+   "tokens": {
+    "blank": [
+     "11001101"
+    ],
+    "text": [
+     "CD in hexadecimal to binary = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3968924903",
+  "source": {
+   "name": "Question19",
+   "showName": false,
+   "instructions": "**Convert the following.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11001110 in binary to hexadecimal = <<<CE>>>",
+   "tokens": {
+    "blank": [
+     "CE"
+    ],
+    "text": [
+     "11001110 in binary to hexadecimal = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3704466662",
+  "source": {
+   "name": "Question20",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The CPU of a computer cannot understand <<<hexadecimal>>> and never, ever uses it.\nIt is used to help <<<hum\u001fans>>> cope with long strings of <<<bina\u001fry digits>>>.\nIt is often used to represent <<<24 bit>>> colour codes.",
+   "tokens": {
+    "blank": [
+     "hexadecimal",
+     "hum\u001fans",
+     "bina\u001fry digits",
+     "24 bit"
+    ],
+    "text": [
+     "The CPU of a computer cannot understand ",
+     0,
+     " and never, ever uses it.\nIt is used to help ",
+     0,
+     " cope with long strings of ",
+     0,
+     ".\nIt is often used to represent ",
+     0,
+     " colour codes."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3812765780",
+  "source": {
+   "name": "Question21",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "A digital image is composed of many small points of colour called <<<pixels>>>. \nThe <<<size>>> of an image is given as the number along its <<<height>>> followed by the number along its <<<width>>>. ",
+   "tokens": {
+    "blank": [
+     "pixels",
+     "size",
+     "height",
+     "width"
+    ],
+    "text": [
+     "A digital image is composed of many small points of colour called ",
+     0,
+     ". \nThe ",
+     0,
+     " of an image is given as the number along its ",
+     0,
+     " followed by the number along its ",
+     0,
+     ". "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3474242280",
+  "source": {
+   "name": "Question22",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "When an image is enlarged to display it in paper or a screen its <<<resolution>>> is reduced. \nThe <<<colour depth>>> is the number of bits used to <<<encode>>> the colour of each <<<pixel>>>. \nIf 8 bits are used then <<<256>>> can be defined for each one.",
+   "tokens": {
+    "blank": [
+     "resolution",
+     "colour depth",
+     "encode",
+     "pixel",
+     "256"
+    ],
+    "text": [
+     "When an image is enlarged to display it in paper or a screen its ",
+     0,
+     " is reduced. \nThe ",
+     0,
+     " is the number of bits used to ",
+     0,
+     " the colour of each ",
+     0,
+     ". \nIf 8 bits are used then ",
+     0,
+     " can be defined for each one."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-137926966",
+  "source": {
+   "name": "Question23",
+   "showName": false,
+   "instructions": "**Calculate the size in megabytes of the following image.\nDisplay your answer to the nearest lower integer.**",
+   "points": "1",
+   "showValues": false,
+   "text": "2125 x 2356 with a colour depth of 24 = <<<15>>> megabytes\n",
+   "tokens": {
+    "blank": [
+     "15"
+    ],
+    "text": [
+     "2125 x 2356 with a colour depth of 24 = ",
+     0,
+     " megabytes\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4037328394",
+  "source": {
+   "name": "Question24",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Extra data stored with an image file is called <<<metadata>>>. \nIt can include the <<<date>>> when the image was made, details about the <<<camera>>> and the <<<location>>> where it was taken if the camera has <<<GPS>>> facilities.",
+   "tokens": {
+    "blank": [
+     "metadata",
+     "date",
+     "camera",
+     "location",
+     "GPS"
+    ],
+    "text": [
+     "Extra data stored with an image file is called ",
+     0,
+     ". \nIt can include the ",
+     0,
+     " when the image was made, details about the ",
+     0,
+     " and the ",
+     0,
+     " where it was taken if the camera has ",
+     0,
+     " facilities."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3562942879",
+  "source": {
+   "name": "Question25",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Sound is caused by <<<vibrations>>> that travel in <<<waves>>>. \nDigital recordings are made by <<<sampling>>> them at fixed intervals. \nThe higher the <<<sampling frequency>>> the more <<<accurate>>> is the recording.",
+   "tokens": {
+    "blank": [
+     "vibrations",
+     "waves",
+     "sampling",
+     "sampling frequency",
+     "accurate"
+    ],
+    "text": [
+     "Sound is caused by ",
+     0,
+     " that travel in ",
+     0,
+     ". \nDigital recordings are made by ",
+     0,
+     " them at fixed intervals. \nThe higher the ",
+     0,
+     " the more ",
+     0,
+     " is the recording."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4087394296",
+  "source": {
+   "name": "Question26",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<dynamic range>>> is influenced by the <<<sample size>>> which stipulates how many <<<bits>>> are used to <<<encode>>> each one. \nThe <<<bit rate>>> is the amount of <<<data>>> processed each <<<second>>>.",
+   "tokens": {
+    "blank": [
+     "dynamic range",
+     "sample size",
+     "bits",
+     "encode",
+     "bit rate",
+     "data",
+     "second"
+    ],
+    "text": [
+     "The ",
+     0,
+     " is influenced by the ",
+     0,
+     " which stipulates how many ",
+     0,
+     " are used to ",
+     0,
+     " each one. \nThe ",
+     0,
+     " is the amount of ",
+     0,
+     " processed each ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1802902948",
+  "source": {
+   "name": "Question27",
+   "showName": false,
+   "instructions": "**Calculate the size in megabytes to the nearest lowest integer of the following sound file.**",
+   "points": "1",
+   "showValues": false,
+   "text": "A stereo recording of 3 minutes with a sampling frequency of 44.1 KHz and a sample size of 24 bits = <<<47>>> megabytes",
+   "tokens": {
+    "blank": [
+     "47"
+    ],
+    "text": [
+     "A stereo recording of 3 minutes with a sampling frequency of 44.1 KHz and a sample size of 24 bits = ",
+     0,
+     " megabytes"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3891448892",
+  "source": {
+   "name": "Question28",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "File <<<compression>>> reduces file sizes so that they take up less <<<storage>>> space and require less <<<bandwidth>>> when they are transmitted across the <<<internet>>>.",
+   "tokens": {
+    "blank": [
+     "compression",
+     "storage",
+     "bandwidth",
+     "internet"
+    ],
+    "text": [
+     "File ",
+     0,
+     " reduces file sizes so that they take up less ",
+     0,
+     " space and require less ",
+     0,
+     " when they are transmitted across the ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1513233377",
+  "source": {
+   "name": "Question29",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "The <<<lossy>>> compression algorithm removes <<<data>>> from the file and is suitable for <<<image>>> and sound files as they contain <<<information>>> which humans cannot distinguish.",
+   "tokens": {
+    "blank": [
+     "lossy",
+     "data",
+     "image",
+     "information"
+    ],
+    "text": [
+     "The ",
+     0,
+     " compression algorithm removes ",
+     0,
+     " from the file and is suitable for ",
+     0,
+     " and sound files as they contain ",
+     0,
+     " which humans cannot distinguish."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3660212786",
+  "source": {
+   "name": "Question30",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "It cannot be used for <<<text>>> files as there would be <<<missing>>> letters and words. Therefore <<<lossless>>> compression must be used for these files.\n",
+   "tokens": {
+    "blank": [
+     "text",
+     "missing",
+     "lossless"
+    ],
+    "text": [
+     "It cannot be used for ",
+     0,
+     " files as there would be ",
+     0,
+     " letters and words. Therefore ",
+     0,
+     " compression must be used for these files.\n"
+    ]
+   }
+  }
+ }
+]

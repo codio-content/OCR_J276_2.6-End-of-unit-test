@@ -1,5 +1,7 @@
 Now it’s time to think carefully about what you have learned in the previous lessons.
 
+**N.B. When asked to provide answers in binary, all require 8 digits (even if they would commence with '0')**
+
 {Check It!|assessment}(fill-in-the-blanks-2276458730)
 |||guidance
 # Solution

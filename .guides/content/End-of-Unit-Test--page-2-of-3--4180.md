@@ -1,3 +1,5 @@
+**N.B. When asked to provide answers in binary, all require 8 digits (even if they would commence with '0')**
+
 {Check It!|assessment}(fill-in-the-blanks-1811596202)
 |||guidance
 # Solution
